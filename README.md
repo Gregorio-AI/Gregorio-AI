@@ -53,7 +53,7 @@
 
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
-| <a href="https://courses.cognitiveclass.ai/certificates/cc986a107d5a4ebbb18a7235d65735de">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2022 |
+| <a href="https://courses.cognitiveclass.ai/certificates/a48e4586b6c9466fa5d5de359d39d85b">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2024 |
 
 </div>
 
