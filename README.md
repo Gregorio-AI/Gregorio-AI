@@ -54,6 +54,7 @@
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://courses.cognitiveclass.ai/certificates/a48e4586b6c9466fa5d5de359d39d85b">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2024 |
+| <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5424637&trackId=OCI2024FNDCFA&key=a4641e10b58d9e29cd784f17dd14cb5b06dff43d">Data Management Foundations Associate</a> | Oracle Cloud  | December 7, 2024 |
 
 </div>
 
