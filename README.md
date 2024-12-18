@@ -54,9 +54,9 @@
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://courses.cognitiveclass.ai/certificates/a48e4586b6c9466fa5d5de359d39d85b">SQL and Relational Databases 101</a> | Cognitive Class | November 2, 2024 |
-| <a href="[https://drive.google.com/file/d/13XV-am8JhDrvH4SWxFG4qPj80bZk1in6/view?usp=sharing](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D465B5F333E18003D9A3F09DAB933D3D5B8569A01138EB3FEC9FCE818D05DF3C)">Infrastructure Foundations Associate</a> | Oracle Cloud  | December 7, 2024 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D465B5F333E18003D9A3F09DAB933D3D5B8569A01138EB3FEC9FCE818D05DF3C">Infrastructure Foundations Associate</a> | Oracle Cloud  | December 7, 2024 |
 | <a href="https://drive.google.com/file/d/13XV-am8JhDrvH4SWxFG4qPj80bZk1in6/view?usp=sharing">Data Management Foundations Associate</a> | Oracle Cloud  | December 18, 2024 |
-| <a href="[https://drive.google.com/file/d/13XV-am8JhDrvH4SWxFG4qPj80bZk1in6/view?usp=sharing](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C526DF1C9AFD7EB1DF7C5D6B9D8036EF7CAA42E58F60FE759FAF8F188EF5B3FF)">AI Foundations Associate</a> | Oracle Cloud  | December 18, 2024 |
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C526DF1C9AFD7EB1DF7C5D6B9D8036EF7CAA42E58F60FE759FAF8F188EF5B3FF">AI Foundations Associate</a> | Oracle Cloud  | December 18, 2024 |
 
 </div>
 
